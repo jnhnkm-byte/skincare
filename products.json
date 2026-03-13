@@ -1,0 +1,14 @@
+[
+  {"id":"face_tzone","name":"얼굴 - T존 (이마/코/턱)","skin_thickness":"보통","sebaceous_glands":"많음","common_issues":["여드름","블랙헤드","모공 확대","유분 과다","피지"],"special_care":"가벼운 수분 케어, 모공 관리, 피지 조절","suitable_product_types":["클렌저","토너","세럼","선크림"]},
+  {"id":"face_uzone","name":"얼굴 - U존 (볼/광대)","skin_thickness":"보통","sebaceous_glands":"보통","common_issues":["건조","홍조","모공","색소침착","민감"],"special_care":"충분한 보습, 진정 케어, 자외선 차단","suitable_product_types":["클렌저","토너","세럼","크림","선크림"]},
+  {"id":"eye_area","name":"눈가","skin_thickness":"매우 얇음","sebaceous_glands":"적음","common_issues":["다크서클","잔주름","붓기","건조","밀리아"],"special_care":"전용 아이크림 사용, 문지르지 않기, 자외선 차단","suitable_product_types":["아이크림","아이패치"]},
+  {"id":"lips","name":"입술","skin_thickness":"매우 얇음","sebaceous_glands":"없음","common_issues":["건조","각질","갈라짐","색소침착","헤르페스"],"special_care":"립밤 상시 도포, 각질 제거(주1회), 자외선 차단","suitable_product_types":["립케어","립밤","립마스크"]},
+  {"id":"neck","name":"목/데콜테","skin_thickness":"얇음","sebaceous_glands":"적음","common_issues":["주름","색소침착","건조","탄력저하","목주름"],"special_care":"얼굴 스킨케어 연장 적용, 선크림 필수, 넥크림","suitable_product_types":["크림","세럼","선크림","넥크림"]},
+  {"id":"hands","name":"손/손등","skin_thickness":"보통(손등 얇음)","sebaceous_glands":"적음","common_issues":["건조","거칠음","기미","주름","갈라짐"],"special_care":"핸드크림 수시 도포, 고무장갑 착용, 선크림","suitable_product_types":["핸드크림","선크림"]},
+  {"id":"arms_legs","name":"팔/다리","skin_thickness":"보통","sebaceous_glands":"적음","common_issues":["건조","각질","닭살(모공각화증)","튼살","색소침착"],"special_care":"바디로션 꾸준히, 각질 제거(주1-2회), 보습","suitable_product_types":["바디로션","바디스크럽","바디오일"]},
+  {"id":"feet","name":"발/발뒤꿈치","skin_thickness":"매우 두꺼움","sebaceous_glands":"없음(발바닥)","common_issues":["각질","갈라짐","무좀","냄새","굳은살"],"special_care":"풋크림 도포, 각질 제거, 통풍 관리, 항진균 관리","suitable_product_types":["풋크림","풋필링","항진균제"]},
+  {"id":"scalp","name":"두피","skin_thickness":"두꺼움","sebaceous_glands":"매우 많음","common_issues":["비듬","지루성피부염","탈모","가려움","유분 과다"],"special_care":"두피 전용 샴푸, 두피 스케일링, 두피 에센스","suitable_product_types":["두피케어샴푸","두피에센스","두피스케일러"]},
+  {"id":"underarm","name":"겨드랑이/사타구니","skin_thickness":"얇음","sebaceous_glands":"많음(아포크린선)","common_issues":["색소침착","냄새","자극","매몰모","습진"],"special_care":"순한 세정제, 마찰 최소화, 미백 케어, 데오도란트","suitable_product_types":["데오도란트","미백크림","진정크림"]},
+  {"id":"back_chest","name":"등/가슴","skin_thickness":"보통~두꺼움","sebaceous_glands":"많음","common_issues":["여드름","등드름","색소침착","모낭염","각질"],"special_care":"바디워시로 청결, 살리실산 제품, 등 전용 스프레이","suitable_product_types":["바디워시","여드름패치","바디스프레이"]},
+  {"id":"elbow_knee","name":"팔꿈치/무릎","skin_thickness":"매우 두꺼움","sebaceous_glands":"적음","common_issues":["각질","건조","색소침착","거칠음","경화"],"special_care":"집중 보습, 우레아 크림, 주기적 각질 제거","suitable_product_types":["바디크림","우레아크림","바디스크럽"]}
+]

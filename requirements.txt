@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "🧴 JH 스마트 스킨케어 추천 시스템 시작..."
+PYTHON_CMD=""
+for cmd in python3.13 python3.12 python3.11 python3 python; do
+    if command -v "$cmd" &>/dev/null; then PYTHON_CMD="$cmd"; break; fi
+done
+if [ -z "$PYTHON_CMD" ]; then echo "[ERROR] Python not found"; exit 1; fi
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+$PYTHON_CMD -m pip install -r "$SCRIPT_DIR/requirements.txt" -q 2>/dev/null
+$PYTHON_CMD -m streamlit run "$SCRIPT_DIR/app.py" --server.headless true --browser.gatherUsageStats false
